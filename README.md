@@ -2,7 +2,7 @@
 ## Profile
 
 * B.S. in Statistics (Pusan National University)
-  * Minor : **Computer Engineering**
+  * Sub : **Computer Engineering**
 
 ## Repositories Content
 
