@@ -1,7 +1,7 @@
 # 문호준/ Hojun Moon
 ## Profile
 
-* B.S. in Statistics (Pusan National University)
+* B.S. in **Statistics** (Pusan National University)
   * Sub : **Computer Engineering**
 
 ## Repositories Content
