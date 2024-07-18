@@ -6,7 +6,7 @@
 * Working at Korea Marine Transport Co., LTD. / 2024.03.01 -
 
 ### Certifications / Issuing Organization / Year
-* Information Processing Engineer / Ministry of Science and ICT / 2024
+* Engineer of Information Processing / Ministry of Science and ICT / 2024
 * SQL Developer / Korea Data Agency / 2023
 * Programmers Certified Coding Professional / Programmers (Korean version of *Leetcode*) / 2023
 
